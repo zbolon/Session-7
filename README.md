@@ -8,5 +8,12 @@ My favorite coding tutorial website is [W3Schools](https://www.w3schools.com/).<
 | Row 2    | Data 3   | Data 4   |
 | Row 3    | Data 5   | Data 6   |
 
+<h5>Original Image</h5>
+
+![Flappy](bird.png)
+<h5>Resized Image using html</h5>
+<img src="bird.png" alt="Description" width="300" height="200">
+
+
 
 <h3>END</h3>
